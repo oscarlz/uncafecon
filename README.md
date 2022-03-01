@@ -1,3 +1,7 @@
+Tanto la cantidad de personas del equipo como los horarios disponibles pueden setearse en el HumansState.js
+
+Es importante que exista un archivo .jpg con el nombre de archivo de los valores configurados en el objeto equipo del initialState de HumansState.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
